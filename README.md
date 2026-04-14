@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 Currently Working On<br>Building scalable backend applications using Spring Boot and REST APIs with a focus on clean architecture.<br><br>🤝 Open to Collaborate On<br>Java and React-based full-stack projects and open-source backend systems.<br><br>📈 Seeking Guidance In<br>System design, AWS cloud deployment, and backend optimization strategies.<br><br>🌱 Currently Learning<br>Spring Boot, Microservices Architecture, and CI/CD pipelines.<br><br>💬 Ask Me About<br>Java, React.js, REST APIs, SQL, Firebase, and Data Structures & Algorithms.<br><br>🏆 Certification<br>Salesforce Certified AI Associate.
+🔭 Currently Working On<br>
+Building AI-powered backend applications using Python & Django, integrating LLMs and REST APIs with a focus on scalable architecture.<br><br>
+
+🤝 Open to Collaborate On<br>
+Django-based projects, LLM integrations (chatbots, AI tools), and Python backend systems.<br><br>
+
+📈 Seeking Guidance In<br>
+System design for AI applications, LLM integration best practices, and deploying AI-powered apps on cloud platforms.<br><br>
+
+🌱 Currently Learning<br>
+Django, LLM integration (OpenAI APIs, prompt engineering), and building real-world AI applications.<br><br>
+
+💬 Ask Me About<br>
+Python, Django, REST APIs, LLM basics, SQL, Firebase, and React integration.<br><br>
+
+🏆 Certification<br>
+Salesforce Certified AI Associate.
 
 
 ## 🌐 Socials:
